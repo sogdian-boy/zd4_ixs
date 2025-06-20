@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             xmlns:local="clr-namespace:CreditCalculator"
             x:Class="CreditCalculator.MainPage"
-            BarBackgroundColor="#2196F3"
-            BarTextColor="White">
+            BarBackgroundColor="GreenYellow"
+            BarTextColor="Black">
 
     <ContentPage Title="Кредитный калькулятор">
         <ScrollView>
@@ -56,7 +56,7 @@
                 </StackLayout>
 
                 <!-- Результаты расчета -->
-                <Frame BackgroundColor="#301f33" CornerRadius="10" Padding="15">
+                <Frame BackgroundColor="RoyalBlue" CornerRadius="10" Padding="15">
                     <StackLayout Spacing="10">
                         <Label Text="Результаты расчета:" FontAttributes="Bold"/>
 
@@ -87,7 +87,7 @@
                    FontAttributes="Bold"
                    HorizontalOptions="Center"/>
 
-            <Frame BackgroundColor="#301f33" CornerRadius="10" Padding="15">
+            <Frame BackgroundColor="RoyalBlue" CornerRadius="10" Padding="15">
                 <StackLayout Spacing="10">
                     <Label Text="Центробанк РФ:" FontAttributes="Bold"/>
                     <Label x:Name="UsdRateLabel" Text="USD: 80.000"/>
