@@ -1,7 +1,5 @@
-﻿using System;
-
+using CreditCalculator;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace zd4_isomatov_h
 {
