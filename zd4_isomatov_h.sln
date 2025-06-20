@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zd4_isomatov_h.Android", "zd4_isomatov_h.Android\zd4_isomatov_h.Android.csproj", "{11954EBD-AD04-403D-8E28-98401603CF02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zd4_isomatov_h", "zd4_isomatov_h\zd4_isomatov_h.csproj", "{39F1760D-4928-4606-9C65-9E02C7B61395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11954EBD-AD04-403D-8E28-98401603CF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11954EBD-AD04-403D-8E28-98401603CF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11954EBD-AD04-403D-8E28-98401603CF02}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{11954EBD-AD04-403D-8E28-98401603CF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11954EBD-AD04-403D-8E28-98401603CF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11954EBD-AD04-403D-8E28-98401603CF02}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{39F1760D-4928-4606-9C65-9E02C7B61395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F1760D-4928-4606-9C65-9E02C7B61395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F1760D-4928-4606-9C65-9E02C7B61395}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{39F1760D-4928-4606-9C65-9E02C7B61395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F1760D-4928-4606-9C65-9E02C7B61395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F1760D-4928-4606-9C65-9E02C7B61395}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A84C2A4-F90E-4788-A218-33CE557DC66C}
+	EndGlobalSection
+EndGlobal
